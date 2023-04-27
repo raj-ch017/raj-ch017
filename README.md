@@ -41,11 +41,11 @@ My goal is to create tools that can help us better understand neuronal systems a
   
   Here's a peak into my toolkit:
   
-  1. Python - Proficient in research tools and statistical learning, including statistical modeling using StatsModels. Skilled in computational methods such as dynamic programming and stochastic programming, with experience applying these techniques in decision tree applications.
+  1. Python - Proficient in research tools and statistical learning, including statistical modeling using StatsModels. 
 
-  2. Statistical Analysis - Experienced in inferential statistics and Bayesian inference, with a strong understanding of regression analysis techniques including linear and logistic regression.
+  2. Statistical Analysis - Experienced in inferential statistics and Bayesian inference, with an understanding of regression analysis techniques including linear and logistic regression.
 
-  3. Data Analysis - Proficient in data processing using NumPy and Pandas, and data visualization using Pylab and Seaborn. Skilled in predictive modeling techniques, with experience developing and implementing models to make data-driven predictions.
+  3. Data Analysis - Proficient in data processing using NumPy and Pandas, and data visualization using Pylab and Seaborn.
 
 <h1>
   Projects
@@ -54,11 +54,9 @@ My goal is to create tools that can help us better understand neuronal systems a
   
 Here are some of the projects I have worked on that demonstrate my skills and showcase my ability to apply my knowledge and problem-solving skills to real-world problems and my dedication to continuous learning and improvement.
   
-  1. Fundamentals of Python
-  2. Scripting in Python
-  3. Python for Research
-
-You can find all my projects [here](https://www.google.com/webhp?hl=en&sa=X&ved=0ahUKEwjSpKmp4qb-AhW-WGwGHRTDBJwQPAgI)
+  1. [Fundamentals of Python](https://raj-ch017.github.io/fundamentals-of-python/intro.html)
+ 
+You can learn more about my projects [here](https://raj-ch017.github.io/project_book/docs/title_page.html)
 
 <h1>
   Currently Learning
@@ -67,9 +65,11 @@ You can find all my projects [here](https://www.google.com/webhp?hl=en&sa=X&ved=
   
   Continuous learning is a crucial aspect of my personal and professional development. In this section, I highlight some of the topics and skills that I am currently learning and exploring to broaden my horizons but also enhance my ability to solve problems and tackle challenges in my field.
   
-  1. Fundamentals of Neuroscience
-  2. Mathematics for Machine Learning and Data Science
-  3. Statistics with Python
+  1. [Using Python for Research](https://github.com/raj-ch017/python-for-research)
+  2. [Mathematics for Machine Learning and Data Science](https://github.com/raj-ch017/mathematics-for-data-science)
+  3. [Statistics with Python](https://github.com/raj-ch017/statistics-with-python)
+
+The list of my online courses and certifications can be found [here](https://raj-ch017.github.io/academic-notebook/)
 
 <h1>
   Contact
