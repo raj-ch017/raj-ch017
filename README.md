@@ -65,9 +65,8 @@ You can learn more about my projects [here](https://raj-ch017.github.io/project_
   
   Continuous learning is a crucial aspect of my personal and professional development. In this section, I highlight some of the topics and skills that I am currently learning and exploring to broaden my horizons but also enhance my ability to solve problems and tackle challenges in my field.
   
-  1. [Using Python for Research](https://github.com/raj-ch017/python-for-research)
-  2. [Mathematics for Machine Learning and Data Science](https://github.com/raj-ch017/mathematics-for-data-science)
-  3. [Statistics with Python](https://github.com/raj-ch017/statistics-with-python)
+  1. [Mathematics for Machine Learning and Data Science](https://github.com/raj-ch017/mathematics-for-data-science)
+  2. [Statistics with Python](https://github.com/raj-ch017/statistics-with-python)
 
 The list of my online courses and certifications can be found [here](https://raj-ch017.github.io/academic-notebook/)
 
