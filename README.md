@@ -55,6 +55,7 @@ My goal is to create tools that can help us better understand neuronal systems a
 Here are some of the projects I have worked on that demonstrate my skills and showcase my ability to apply my knowledge and problem-solving skills to real-world problems and my dedication to continuous learning and improvement.
   
   1. [Fundamentals of Python](https://raj-ch017.github.io/fundamentals-of-python/intro.html)
+  2. [Python Case Studies](https://raj-ch017.github.io/python-case-studies/intro.html)
  
 You can learn more about my projects [here](https://raj-ch017.github.io/project_book/docs/title_page.html)
 
