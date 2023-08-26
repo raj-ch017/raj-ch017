@@ -56,6 +56,7 @@ Here are some of the projects I have worked on that demonstrate my skills and sh
   
   1. [Fundamentals of Python](https://raj-ch017.github.io/fundamentals-of-python/intro.html)
   2. [Python Case Studies](https://raj-ch017.github.io/python-case-studies/intro.html)
+  3. [Task-fMRI Analysis and Modeling](https://github.com/raj-ch017/nma-project)
  
 You can learn more about my projects [here](https://raj-ch017.github.io/project_book/docs/title_page.html)
 
