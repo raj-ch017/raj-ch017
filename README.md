@@ -25,14 +25,15 @@ Just a brain trying to learn about itself and it's place in nature.
 
 
 <h1>
-<p align = 'center'>  
+<p align = 'left'>  
   I'm Rajdeep Chakraborty! 
 </h1>
 </p>
 
-I am a lifelong learner from India with an undergraduate degree in Mechanical Engineering and a keen interest in Neuroscience. I am fascinated by the workings of neurons and their role in running the show, and I eagerly look forward to applying my problem-solving and computational skills to this field.
+I am a lifelong learner from India working as a Neuroscience Researcher at Centre for Neuroscience, Indian Institute of Science. I am interested in translating cutting-edge discoveries into real-world applications for healthcare, creating tools that help develop quantitative models for better intervention techniques that can provide us with effective mental health care and treatments. 
 
-My goal is to create tools that can help us better understand neuronal systems and how faults in the system can lead to neurological diseases. Developing quantitative models and integrating AI for better intervention techniques is crucial for our world, where individuals need effective mental health care and treatments.
+My overarching goal is to dissolve the boundaries between knowledge and challenge the traditional view of knowledge being categorized and distributed according to training received from a degree. I'm a big believer in open science – if we want to push the boundaries of knowledge and understand our world, we need to collaborate.
+
 
 <h1>
   Skills
@@ -54,9 +55,7 @@ My goal is to create tools that can help us better understand neuronal systems a
   
 Here are some of the projects I have worked on that demonstrate my skills and showcase my ability to apply my knowledge and problem-solving skills to real-world problems and my dedication to continuous learning and improvement.
   
-  1. [Fundamentals of Python](https://raj-ch017.github.io/fundamentals-of-python/intro.html)
-  2. [Python Case Studies](https://raj-ch017.github.io/python-case-studies/intro.html)
-  3. [Task-fMRI Analysis and Modeling](https://github.com/raj-ch017/nma-project)
+  1. [Task-fMRI Analysis and Modeling](https://github.com/raj-ch017/nma-project)
  
 You can learn more about my projects [here](https://raj-ch017.github.io/project_book/docs/title_page.html)
 
