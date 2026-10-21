@@ -7,15 +7,13 @@
   <img src="https://media.giphy.com/media/MB75OzWrpUMOWfBHg0/giphy.gif" width="200"/>
 </div>
 
-<h1 align="center">
+<h3 align="center">
   I'm Rajdeep Chakraborty!
-</h1>
+</h3>
 
-I'm a mechanical engineer who found his way into neuroscience. I started out designing and building physical systems, moved into research at the Indian Institute of Science (IISc), and am now a scientific trainee at EMBL Rome, where I study behaviour and build models of how individuals make decisions together.
+I'm a mechanical engineer who found my way into neuroscience! Thanks to the COVID-19 pandemic, I realised where my real interests lie. Since then, I have made the effort to move into research. I started with online courses and Neuromatch Academy, then gained practical experience at the Indian Institute of Science (IISc) and the European Molecular Biology Laboratory (EMBL).
 
-That engineering background still shapes how I work: I like building the tools, from hardware to analysis pipelines, that make new questions about the brain answerable.
-
-I'm a big believer in open science – if we want to push the boundaries of knowledge and understand our world, we need to collaborate.
+The engineering background still shapes how I work: I like building the tools, from hardware to analysis pipelines, that make new questions about the brain answerable. I'm a big believer in open science – if we want to push the boundaries of knowledge and understand our world, we need to collaborate.
 
 
 <h1>
@@ -23,19 +21,28 @@ I'm a big believer in open science – if we want to push the boundaries of know
   <img src = "https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExa21sbWJkdjFranIxMm4wYWI0eTdlZHVkYWRibTR6dGVqdjlsM3dsOSZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/JUGcy1JHU2ubKnq3Ug/giphy.gif" width="30px"/>
 </h1>
 
-- **Computational psychiatry** – using formal models of behaviour to understand mental health and illness
-- **Neurotechnology** – building tools that let us study the brain in new ways
+- **Computational psychiatry** – using computational models of behaviour to understand mental health and illness
+- **Neurotechnology** – building tools that leads to new ways of studying the brain
 
 
 <h1>
   Current Work
-  <img src = "[GIF_URL](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExenN2Y3MzdmxtajB1dzMwNmJwcHE3bWp0M3A1ZTF5N3k2OThjOGU5eSZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/QKUx6kHItu3ilaVMdn/giphy.gif)" width="30px"/>
+  <img src = "https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExenN2Y3MzdmxtajB1dzMwNmJwcHE3bWp0M3A1ZTF5N3k2OThjOGU5eSZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/QKUx6kHItu3ilaVMdn/giphy.gif" width="30px"/>
 </h1>
 
-At EMBL Rome, I work within a PhD project on **motivational conflict and social defeat**, where I'm responsible for the analysis:
+At EMBL Rome, I study behaviour to understand how motivational conflict ties together with negative social experience. I also build models to understand decision-making in uncertainty environments. I am responsible for leading the analysis and that has led to create things like:
 
 - a **DeepLabCut** pipeline for tracking animal behaviour
-- **POMDP modelling** of how individuals interact in uncertain environments (ongoing)
+- **POMDP modelling** of decision-making in uncertain environments (ongoing)
+
+<h1>
+  Other Experience
+  <img src = "https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3bGJ5aGFxbzFxc203emZhbGtzOW83NDE1dTAybm1ocHZtY2tvNWo4ZCZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/VdoIFLsMIlwzfKD520/giphy.gif" width = "30px">
+</h1>
+
+* **Technical Editor**: Worked on a range of books covering programming languages such as Python and Julia, collaborating with authors and reviewers to make sure each book was accurate and published on time.
+
+* **Online Mathematics Tutor**: Taught online sessions for students in grades 5-12, keeping an average rating of 4.9/5. This role deepened my love for mathematics; finding new ways to explain a concept was a challenge I always enjoyed.
 
 
 <h1>
